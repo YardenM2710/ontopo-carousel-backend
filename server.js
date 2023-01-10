@@ -7,6 +7,7 @@ const http = require('http').createServer(app)
 
 app.use(express.json()) // create the req.body object - from json
 app.use(express.urlencoded({ extended: false })) // create the req.body object
+app.use(express.static('public'))
 
 const corsOptions = {
   origin: ['http://127.0.0.1:3000', 'http://localhost:3000', 'http://127.0.0.1:8080', 'http://localhost:8080', 'http://127.0.0.1:5173'],
