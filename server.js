@@ -5,8 +5,8 @@ const slideRoutes = require('./api/slide/slide.routes')
 const app = express()
 const http = require('http').createServer(app)
 
-app.use(express.json()) // create the req.body object - from json
-app.use(express.urlencoded({ extended: false })) // create the req.body object
+app.use(express.json()) 
+app.use(express.urlencoded({ extended: false })) 
 app.use(express.static('public'))
 
 const corsOptions = {
