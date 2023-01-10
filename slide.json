@@ -1,0 +1,52 @@
+[
+  {
+    "title": {
+      "he": "שפים",
+      "en": "Chefs"
+    },
+    "imgUrl": "https://res.cloudinary.com/ontopo/image/upload/c_crop,x_0,y_0,w_945,h_350/v1665487642/assets/623877a9c7a8c74eb0612ff4/623877a9c7a8c74eb0612ff4/203.jpg",
+    "path": "https://www.ontopo.co.il/en/market/11760468"
+  },
+
+  {
+    "title": {
+      "he": "מסעדות",
+      "en": "Restaurants"
+    },
+    "imgUrl": "https://res.cloudinary.com/ontopo/image/upload/c_crop,x_0,y_0,w_945,h_350/v1665487644/assets/623877a9c7a8c74eb0612ff4/623877a9c7a8c74eb0612ff4/200.jpg",
+    "path": "https://www.ontopo.co.il/en/"
+  },
+  {
+    "title": {
+      "he": "אירועים ",
+      "en": "Private Events"
+    },
+    "imgUrl": "https://res.cloudinary.com/ontopo/image/upload/c_crop,x_0,y_0,w_945,h_350/v1665487706/assets/623877a9c7a8c74eb0612ff4/623877a9c7a8c74eb0612ff4/205.jpg",
+    "path": "https://www.ontopo.co.il/en/market/26151476"
+  },
+  {
+    "title": {
+      "he": "ברים",
+      "en": "Bars"
+    },
+    "imgUrl": "https://res.cloudinary.com/ontopo/image/upload/c_crop,x_0,y_0,w_945,h_350/v1665487706/assets/623877a9c7a8c74eb0612ff4/623877a9c7a8c74eb0612ff4/201.jpg",
+    "path": "https://www.ontopo.co.il/en/market/40521695"
+  },
+  {
+    "title": {
+      "he": "יוצאים לדייט",
+      "en": "Out for a date"
+    },
+    "imgUrl": "https://res.cloudinary.com/ontopo/image/upload/c_crop,x_5,y_0,w_945,h_350/v1672074118/assets/62dfc601a3c44b000f459183/623877a9c7a8c74eb0612ff4/206.jpg",
+    "path": "https://www.ontopo.co.il/en/market/23384243"
+  },
+
+  {
+    "title": {
+      "he": "יקבים",
+      "en": "Wineries"
+    },
+    "imgUrl": "https://res.cloudinary.com/ontopo/image/upload/c_crop,x_0,y_0,w_945,h_350/v1665487708/assets/623877a9c7a8c74eb0612ff4/623877a9c7a8c74eb0612ff4/202.jpg",
+    "path": "https://www.ontopo.co.il/en/market/53344367"
+  }
+]
