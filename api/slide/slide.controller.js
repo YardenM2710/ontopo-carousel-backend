@@ -5,9 +5,7 @@ async function query(req, res) {
     const slides = await slideService.query()
     res.json(slides)
   } catch (err) {
-    res.status(500).json({
-      err
-    })
+    res.status(500).json({ err })
   }
 }
 
